@@ -15,7 +15,7 @@ role: Professor of Epidemiology
 # Organizations/Affiliations
 organizations:
 - name: Columbia University
-  url: ""
+  url: "https://www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include TODO
