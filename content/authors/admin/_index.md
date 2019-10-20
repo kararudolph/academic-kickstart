@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Kara Rudolph
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Columbia University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include TODO
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Causal inference
+- Transportation of mediation effects
 
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+<!-- education: -->
+<!--   courses: -->
+<!--   - course: PhD in Artificial Intelligence -->
+<!--     institution: Stanford University -->
+<!--     year: 2012 -->
+<!--   - course: MEng in Artificial Intelligence -->
+<!--     institution: Massachusetts Institute of Technology -->
+<!--     year: 2009 -->
+<!--   - course: BSc in Artificial Intelligence -->
+<!--     institution: Massachusetts Institute of Technology -->
+<!--     year: 2008 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -47,29 +46,33 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/KaraRudolph
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=TODO
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/kararudolph
+- icon: cv
+  icon_pack: ai
+  link: files/vita.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups: []
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kara Rudolph is an Assistant Professor in Mailman School of Public Health at
+Columbia University in New York.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Her current work, funded by a NIDA K99/R00, is developing methods to transport
+mediation effects from one population to another and apply them to understand
+how school characteristics mediate relationships between neighborhood factors
+and adolescent drug use.
+
+I graduated with a PhD (Epidemiology) and MHS (Biostatistics) from the Johns
+Hopkins Bloomberg School of Public Health in 2014. Here is my CV. Code from
+some of my research is on Github.
