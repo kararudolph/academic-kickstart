@@ -46,7 +46,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/KaraRudolph
+  link: https://twitter.com/kara_rudolph
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=TODO
@@ -73,6 +73,5 @@ mediation effects from one population to another and apply them to understand
 how school characteristics mediate relationships between neighborhood factors
 and adolescent drug use.
 
-I graduated with a PhD (Epidemiology) and MHS (Biostatistics) from the Johns
-Hopkins Bloomberg School of Public Health in 2014. Here is my CV. Code from
-some of my research is on Github.
+She graduated with a PhD (Epidemiology) and MHS (Biostatistics) from the Johns
+Hopkins Bloomberg School of Public Health in 2014.
