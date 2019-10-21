@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Epidemiology
+role: Assistant Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
