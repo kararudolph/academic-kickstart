@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+hugo
+pushd public
+git add .
+git commit -m "Build site."
+git push origin master
+popd
