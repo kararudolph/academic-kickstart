@@ -65,13 +65,20 @@ email: ""
 user_groups: []
 ---
 
-Kara Rudolph is an Assistant Professor in Mailman School of Public Health at
-Columbia University in New York.
+Kara Rudolph is an epidemiologist with research interests in developing and
+applying causal inference methods to understand social and contextual
+influences on mental health, substance use, and violence in disadvantaged,
+urban areas of the United States.
 
-Her current work, funded by a NIDA K99/R00, is developing methods to transport
-mediation effects from one population to another and apply them to understand
-how school characteristics mediate relationships between neighborhood factors
-and adolescent drug use.
+Her current work focuses on developing methods for transportability and
+mediation, and subsequently applying those methods to understand how aspects
+of the school and peer environments mediate relationships between neighborhood
+factors and adolescent drug use across populations. More generally, her work
+on generalizing/ transporting findings from study samples to target
+populations and identifying subpopulations most likely to benefit from
+interventions contributes to efforts to optimally target available policy and
+program resources.
 
-She graduated with a PhD (Epidemiology) and MHS (Biostatistics) from the Johns
-Hopkins Bloomberg School of Public Health in 2014.
+She completed a PhD in Epidemiology and an MHS in Biostatistics from the Johns
+Hopkins Bloomberg School of Public Health and was a Robert Wood Johnson
+Foundation Health and Society Scholar.
