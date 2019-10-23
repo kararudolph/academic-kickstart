@@ -18,11 +18,9 @@ organizations:
   url: "https://www.columbia.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include TODO
+bio: Kara Rudolph is an epidemiologist at Columbia University with research interests in developing and applying causal inference methods to understand social and contextual influences on mental health, substance use, and violence in disadvantaged, urban areas of the United States.
 
 interests:
-- Causal inference
-- Transportation of mediation effects
 
 <!-- education: -->
 <!--   courses: -->
@@ -49,7 +47,7 @@ social:
   link: https://twitter.com/kara_rudolph
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=TODO
+  link: https://scholar.google.com/citations?user=HgmvKuoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/kararudolph
