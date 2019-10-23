@@ -14,13 +14,12 @@ popd
 * TODO same information, but using this template: https://sourcethemes.com/academic/
   - like https://calebhmiles.github.io/
   - [ ] tell Kara how to update publications
-  - [ ] google scholar link?
-  - [ ] current bio
-  - [ ] research interests
-  - [ ] teaching
-  - [ ] experience / history
-  - [ ] calendly? office hours?
-  - [ ] contact info
+  - [X] google scholar link?
+  - [X] current bio
+  - [X] research interests
+  - [X] experience / history
+  - [X] calendly? office hours?
+  - [X] contact info
 * DONE move to github.io
   CLOSED: [2019-10-20 Sun 21:14]
 * DONE index
