@@ -63,20 +63,20 @@ email: ""
 user_groups: []
 ---
 
-Kara Rudolph is an epidemiologist with research interests in developing and
-applying causal inference methods to understand social and contextual
-influences on mental health, substance use, and violence in disadvantaged,
-urban areas of the United States.
+I am an epidemiologist with research interests in developing and applying
+causal inference methods to understand social and contextual influences on
+mental health, substance use, and violence in disadvantaged, urban areas of
+the United States.
 
-Her current work focuses on developing methods for transportability and
+My current work focuses on developing methods for transportability and
 mediation, and subsequently applying those methods to understand how aspects
 of the school and peer environments mediate relationships between neighborhood
-factors and adolescent drug use across populations. More generally, her work
-on generalizing/ transporting findings from study samples to target
-populations and identifying subpopulations most likely to benefit from
-interventions contributes to efforts to optimally target available policy and
-program resources.
+factors and adolescent drug use across populations. More generally, my work on
+generalizing/ transporting findings from study samples to target populations
+and identifying subpopulations most likely to benefit from interventions
+contributes to efforts to optimally target available policy and program
+resources.
 
-She completed a PhD in Epidemiology and an MHS in Biostatistics from the Johns
+I completed a PhD in Epidemiology and an MHS in Biostatistics from the Johns
 Hopkins Bloomberg School of Public Health and was a Robert Wood Johnson
 Foundation Health and Society Scholar.
