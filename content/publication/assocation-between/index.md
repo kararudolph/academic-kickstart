@@ -5,7 +5,7 @@ authors:
 - Stuart EA
 - Vernick JS
 - Webster DW
-date: "2015-08"
+date: "2015-08-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

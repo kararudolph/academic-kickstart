@@ -8,7 +8,7 @@ authors:
 - Glymour MM
 - Ahern J
 - Osypuk, TL
-date: "2018-07"
+date: "2018-07-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
