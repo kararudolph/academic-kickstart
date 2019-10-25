@@ -10,7 +10,9 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  # Link to featured instead of publications b/c using that for first
+  # subsection of publications, selected methodologic papers.
+  url = "#featured"
   weight = 20
 
 [[main]]

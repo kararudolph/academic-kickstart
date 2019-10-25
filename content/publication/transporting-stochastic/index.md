@@ -27,7 +27,7 @@ summary: ""
 
 tags:
 -
-featured: false
+featured: true
 
 links:
 - name: "https://arxiv.org/abs/1903.03690"

@@ -28,7 +28,7 @@ summary: ""
 
 tags:
 -
-featured: false
+featured: true
 
 links:
 - name: "https://arxiv.org/abs/1707.09021"
