@@ -4,7 +4,7 @@ authors:
 - admin
 - Sofrygin O
 - van der Laan MJ
-date: "2018-10-29T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under revision"
+publication: "JASA T&M (Forthcoming)"
 publication_short: ""
 
 abstract: ""
@@ -30,8 +30,8 @@ tags:
 featured: true
 
 links:
-- name: "https://arxiv.org/abs/1810.12452"
-  url: "https://arxiv.org/abs/1810.12452"
+- name: "https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1704292"
+  url: "https://www.tandfonline.com/doi/abs/10.1080/01621459.2019.1704292"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

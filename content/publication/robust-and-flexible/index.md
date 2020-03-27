@@ -31,8 +31,8 @@ tags:
 featured: true
 
 links:
-- name: "https://arxiv.org/abs/1707.09021"
-  url: "https://arxiv.org/abs/1707.09021"
+- name: "https://www.degruyter.com/view/j/em.2018.7.issue-1/em-2017-0007/em-2017-0007.xml"
+  url: "https://www.degruyter.com/view/j/em.2018.7.issue-1/em-2017-0007/em-2017-0007.xml"
 url_pdf: ''
 url_code: ''
 url_dataset: ''

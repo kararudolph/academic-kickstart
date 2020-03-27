@@ -17,7 +17,7 @@ publishDate: "2019-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under revision"
+publication: "Biometrics (forthcoming)"
 publication_short: ""
 
 abstract: ""
