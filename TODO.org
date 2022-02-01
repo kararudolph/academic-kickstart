@@ -1,4 +1,4 @@
-* Commands
+* HOWTO Commands - Build and Deploy
 #+begin_src sh
 # 1. in kararudolph-academic-kickstart, make content updates and check them in
 # as usual.
@@ -11,6 +11,8 @@ git commit -m "Build site."
 git push origin master
 popd
 #+end_src
+* HOWTO change avatar and other user (admin) data
+  - in content/authors/admin, change avatar.jpg
 * TODO same information, but using this template: https://sourcethemes.com/academic/
   - like https://calebhmiles.github.io/
   - [ ] tell Kara how to update publications
